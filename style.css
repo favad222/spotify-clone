@@ -1,0 +1,457 @@
+*{
+
+    font-family: 'Secular One', sans-serif;
+
+
+
+
+}
+.back{
+
+    
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+.back-1{
+
+    background: url(bubbles-dktp.svg) no-repeat ;
+    background-size: cover;
+}
+
+.phone-back{
+    position: absolute;
+    left: 250px;
+    width: 286px;
+    height: 573px;
+    top: 200px;
+
+    
+}
+
+
+
+
+
+
+.phone-display{
+    position: absolute;
+    width: 254px;
+    height: 420px;
+    right: auto;
+    top: 59px;
+    left: 17px;
+}
+
+.head{
+
+    width: 98%;
+    height: 60px;
+    background: black;
+    padding-left: 30px;
+    padding-top: 20px;
+   
+
+}.logo{
+    width: 130px;
+    height: 40px;
+    float: left;
+    margin-left: 131px;
+
+}
+nav{
+    float: right;
+    margin-right: 161px;
+    margin-top: -6px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 29px;
+    padding-top: 19px;
+    
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    
+}
+nav li a:hover{
+    color: #1ed760;
+
+}
+
+
+
+
+.main{
+     margin-top: 0;
+    width: 100%;
+    height: 600px;
+     
+
+}
+
+.phone{
+
+    width: 20px;
+    height: 20px;
+    
+}
+
+
+    
+.text1{
+
+    margin-left: 595px;
+    margin-top: 56px;
+    letter-spacing: -0.04em;
+    font-size: 64px;
+    
+    padding-top: 110px;
+    color: white;
+    font-weight: 400;
+    float: left;
+
+}
+.button{
+    margin-left: 599px;
+    margin-top: -43px;
+    color: var(--text-base,#000000);
+    cursor: pointer;
+    background-color: var(--background-base,white);
+    border-radius: 500px;
+    padding-block: 14px;
+    padding-inline: 32px;
+    border: none;
+    font-weight: 400;
+    
+    
+}.button:hover{
+
+    transform: scale(1.05);
+}
+
+
+
+
+section{
+
+    width: 100%;
+    height: 595px;
+    
+}
+.sub-main1{
+
+    
+    PADDING-TOP: 8PX
+    
+}
+p{
+
+   
+    margin-bottom: 10px;
+    left: auto;
+    right: auto;
+    font-size: 40px;
+    width: auto;
+    line-height: 46px;
+    font-weight: 20px;
+    text-align: center;
+    
+}
+
+.img{
+    padding-left: 118px;
+    width: 113px;
+    margin-left: 41px;
+    padding-top: 31px;}
+
+.icon{
+    padding-left: 136px;
+    padding-top: 52px;
+
+}
+.main-text{
+
+    float: left;
+    padding-left: 104px;
+    font-size: 21px;
+    font-weight: 100;
+    margin-left: 20px;
+    
+
+}.text-1{
+
+        margin-left: 112px;
+        
+}
+.text-2{
+       padding-top: 64px;
+    padding-left: 176px;
+}
+    
+
+
+
+
+.sub-text{
+    float: left;
+    padding-left: 59px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 100;
+    line-height: 28px;
+
+
+}
+
+.main-3{
+
+    width: 100%;
+    height: 298px;
+
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    padding-top: 151px;
+}
+.main-3-text{
+
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    font-weight: 920;
+    line-height: 0.2;
+
+    
+
+
+}
+
+.main-4{
+
+    width: 100%;
+    height: 500px;
+    background: white;
+
+
+
+}
+
+.main-4-text{
+
+    text-align: center;
+    padding-top: 13px;
+    font-size: 27px;
+    color: black;
+    font-weight: 900;
+}.main-4-text1{
+
+    margin-left: 155px;
+    list-style: none;
+    margin-right: 272px;
+
+}
+
+.main-4-subtext{
+
+    padding-top: 56px;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    cursor: pointer;
+    
+
+}.main-4-subtext:hover{
+
+    text-decoration: underline;
+}
+
+
+.main-5{
+
+    width: 100%;
+    height: 455px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+
+}.text-5{
+
+    text-align: center;
+    padding-top: 75px;
+
+
+}
+
+
+.main5-back{
+
+    background: url(https://www.scdn.co/i/free/lets-play.svg) no-repeat;
+     background-size: cover; 
+     height: 100vh;
+
+
+
+   
+
+
+}
+
+
+.main-5-text{
+
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    font-weight: 920;
+    line-height: 0.2;
+
+    margin-top: 110px;
+    
+    color: white;
+
+}.button1{
+
+    
+    color: var(--text-base,#000000);
+    cursor: pointer;
+    background-color: var(--background-base,white);
+    border-radius: 500px;
+    padding-block: 14px;
+    padding-inline: 32px;
+    border: none;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 55px;
+
+
+
+}.button1:hover{
+
+    transform: scale(1.05);
+}
+
+
+
+footer{
+    width: 100%;
+    height: 530px;
+    color: white;
+    background: black;
+    font-weight: 400;
+}.logo1{
+    width: 130px;
+    height: 40px;
+    margin-left: 71px;
+    padding-top: 49px;
+    
+    
+
+}.social{
+   
+    width: 269px;
+    height: 250px;
+    float: right;
+    margin-right: 99px;;
+    
+}
+.border{
+
+    
+    height: 72px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+
+}.insta{
+    width: 44px;
+    height: 44px;
+    border-radius: 45%;
+    background-color: #222326;
+    
+    
+    
+
+
+}.insta-log{
+
+    width: 22px;
+    top: 20px;
+    left: 20px;
+    background: white;
+    margin-top: 11px;
+    margin-left: 10px;
+    
+    
+}
+.insta-log:hover{
+
+    background:  #1ed760;
+}
+.footer-hover{
+    cursor: pointer;
+}
+.footer-hover:hover{
+
+    color:  #1ed760;
+}
+
+
+
+
+table{
+
+    margin-left: 312px;
+    margin-top: -30px;
+    
+}td{
+
+    font-weight: 400;
+}
+
+.move{
+
+    padding-left: 30px;
+    padding-top: 30px;
+}.lang-selector{
+    float: right;
+    padding-right: 114px;
+    padding-top: 56px;
+}.pre-tag-1{
+    float: left;
+    padding-left: 30px;
+    margin-top: 74px;
+    list-style: none;
+
+
+}
+
+.pre-tag-2{
+    float: right;
+    margin-top: 73px;
+    list-style: none;
+    margin-right: -134px;
+}
+.mover{
+
+    margin-right: 20px;
+}
+
+
+
+
+
+
+body{
+
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+
